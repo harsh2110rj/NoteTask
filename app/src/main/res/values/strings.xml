@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">NoteTask</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="no_task_message">No Task Selected.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menutitle_addTask">Add Task</string>
+    <string name="menumain_showDurations">Durations Report</string>
+    <string name="menumain_settings">Settings</string>
+    <string name="menumain_showAbout">About Task Timer</string>
+    <string name="menumain_generate">Generate Data</string>
+    <string name="edit_button_description">Button to edit Task Details.</string>
+    <string name="delete_button_description">Button to delete task.</string>
+    <string name="hint_name_task">Task\'s Name!</string>
+    <string name="hint_description_task">Task\'s Description!</string>
+    <string name="hint_sortorder_task">Task\'s Priority</string>
+    <string name="name_button_save">Save</string>
+
+    <string name="title_activity_add_edit">AddEditActivity</string>
+    <string name="instruction_heading">Instructions</string>
+    <string name="instruction_description">Use the add button (+) in the toolbar above to create new tasks.\n\nTasks with lower sort orders will be placed higher up the list. Tasks with the same sort order will be sorted alphabetically.\n\nTapping a task will start the timer for that task (and will stop the timer for any previous task that was being timed). \n\nEach task has Edit and Delete buttons if you want to change the details or remove the task.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="deldiag_positive_caption">Delete</string>
+    <string name="deldiag_message">Deleting will also delete all timing data associated with task id %1$d: %2s.</string>
+    <string name="cancelEditDiag_message">You have unsaved changes. Do you want to abandon changes or continue editing.</string>
+    <string name="cancelEditDiag_positive_caption">Continue Editing</string>
+    <string name="cancelEditDiag_negative_caption">Abandon Changes</string>
+    <string name="about_copyright">Copyright \u00a9 2020 Harsh Sharma</string>
+    <string name="about_weblink">Instructions available at www.sharmaji.com</string>
+    <string name="about_email">For support, email NoteTask@sharmaji.com</string>
+    <string name="about_credits">Icon derived from <b>analog clock</b> at openclipart.org by <b>Anonymous</b></string>
+    <string name="td_text_name">Task Name</string>
+    <string name="td_text_date">Date</string>
+    <string name="td_text_duration">Duration</string>
+    <string name="td_text_description">Description</string>
+    <string name="title_activity_durations_report">Durations Report</string>
+    <string name="rm_title_filter_day">Show Day</string>
+    <string name="rm_title_filter_week">Show Week</string>
+    <string name="rm_filter_dates">Report Date</string>
+    <string name="rm_title_delete">Delete Old Timings</string>
+</resources>
